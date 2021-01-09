@@ -13,7 +13,7 @@
     "bootstrap": "4.1.1",
     "clean-webpack-plugin": "0.1.19",
     "html-loader": "0.5.5",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "js-yaml": "3.11.0",
     "json-e": "2.5.0",
     "lodash": "4.17.10",
